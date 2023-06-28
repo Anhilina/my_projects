@@ -1,4 +1,3 @@
-AWS SageMaker Course Projects
 As part of my ongoing journey to deepen my understanding and skills in machine learning, I enrolled in an intensive course focused on using AWS SageMaker. The course provided an opportunity to work on six different machine learning projects, each with a unique problem set and dataset.
 
 These projects were not built from scratch; they are a part of the course curriculum and largely guided by the course instructor. However, each project was designed with mini-challenges and opportunities for creativity and exploration, encouraging me to take initiative and experiment beyond the base requirements.
